@@ -33,17 +33,15 @@ namespace FunProgram1___Game_1_WIP
 
 
            int count = 0;
-	     int color = g;
-  	     foreach (var line in level1)
+	   int color = g;
+  	   foreach (var line in level1)
            {
-              foreach (var item in line)
-           	  {
+           	foreach (var item in line)
+           	{
 			
-		  }
+		}
            }
        }
-   }
-  
-  
+   }  
 }
 

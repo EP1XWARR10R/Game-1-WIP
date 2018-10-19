@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+
+namespace FunProgram1___Game_1_WIP
+{
+   class Program
+   {
+       static void Main(string[] args)
+       {
+           string[] level1 = {
+               "g0g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g2g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g3g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g4g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g5g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g6g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g7g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g8g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g9g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g0g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g1g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g2g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g3g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g4g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g5g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g6g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g7g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g8g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g1g9g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g ",
+               "g2g0g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g g "
+           };
+
+
+
+           int count = 0;
+	     int color = g;
+  	     foreach (var line in level1)
+           {
+              foreach (var item in line)
+           	  {
+			
+		  }
+           }
+       }
+   }
+  
+  
+}
+
